@@ -1,4 +1,4 @@
-# SIB 2025 code documentation 
-Independent Study Program at NF Academy Fullstack Web Developer
+# SIB NF Academy 2025
+Git/Github exploration task
 - Name: Iffah Karimah
 - College: Nurul Fikri Integrated Technology College
